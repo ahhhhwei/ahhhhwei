@@ -1,4 +1,4 @@
-![Matrix SVG](./matrix.svg)
+![Matrix SVG](./pic/matrix.svg)
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+ahwei.;I like saving the world." alt="Typing SVG" />
 </p> <img align="right" alt="GIF" img src="./pic/smile.gif" alt="smile" style="zoom: 30%;" />
@@ -35,7 +35,7 @@
 
 # 📝 个人资料统计：
 
-<p><img align="left" img src="https://github-readme-stats.vercel.app/api?username=ahhhhwei&show_icons=true&line_height=45&theme=dracula&include_all_commits=true"  alt="" style="zoom:80%;" /></p>
+<p><img align="left" img src="https://github-readme-stats.vercel.app/api?username=ahhhhwei&show_icons=true&line_height=45&theme=dracula&include_all_commits=true" style="zoom:80%;" /></p>
 <p><img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" style="zoom:93%;"  /></p>
 
 
