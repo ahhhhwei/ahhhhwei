@@ -1,7 +1,7 @@
 ![](./pic/readme-top.png)
 ![Matrix SVG](./pic/matrix.svg)
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+ahwei.;I like saving the world." alt="Typing SVG" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Work one hour a day; Maintain health for fifty years; And live a happy life forever." alt="Typing SVG" /></p>
 
 # 🤔 关于我：
 
