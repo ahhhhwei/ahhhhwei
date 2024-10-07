@@ -1,7 +1,7 @@
 ![](./pic/readme-top.png)
 ![Matrix SVG](./pic/matrix.svg)
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Work one hour a day; Maintain health for fifty years; And live a happy life forever." alt="Typing SVG" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Work one hour a day. 每天工作一小时; Maintain health for fifty years. 健康工作五十年; And live a happy life forever. 幸福生活一辈子！" alt="Typing SVG" /></p>
 
 # 🤔 关于我：
 
