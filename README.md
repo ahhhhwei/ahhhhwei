@@ -29,7 +29,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahhhhwei/ahhhhwei/output/github-contribution-grid-snake.svg">
 </picture>
 
-我的第<p align="center"><img src="https://profile-counter.glitch.me/{ahhhhwei}/count.svg" alt="ahhhhwei :: Visitor's Count" /></p>位访客
+<p style="text-align:center; color:green;">
+  我的第<img src="https://profile-counter.glitch.me/{ahhhhwei}/count.svg" alt="ahhhhwei :: Visitor's Count" />位访客
+</p>
 
 # 🔣 使用语言：
 
