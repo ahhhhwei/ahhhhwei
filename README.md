@@ -1,7 +1,7 @@
 ![Matrix SVG](./pic/matrix.svg)
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+ahwei.;I like saving the world." alt="Typing SVG" /></p>
-<img align="right" alt="GIF" src="./pic/smile.gif" alt="smile" style="zoom: 1%;" />
+<img align="right" alt="GIF" src="./pic/smile.gif" alt="smile" />
 
 # 🤔 关于我：
 
