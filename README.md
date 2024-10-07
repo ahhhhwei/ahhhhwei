@@ -1,3 +1,4 @@
+![](./pic/readme-top.png)
 ![Matrix SVG](./pic/matrix.svg)
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+ahwei.;I like saving the world." alt="Typing SVG" /></p>
