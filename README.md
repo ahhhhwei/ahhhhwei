@@ -30,7 +30,7 @@
 </picture>
 
 <div style="text-align: center; color: green;">
-    我的第<img src="https://profile-counter.glitch.me/ahhhhwei/count.svg" alt="ahhhhwei :: Visitor's Count" />位访客，你好！欢迎来到阿伟的代码世界。
+    Hello! Welcome to Ahwei's Code World. 我的第<img src="https://profile-counter.glitch.me/ahhhhwei/count.svg" alt="ahhhhwei :: Visitor's Count" />位访客，你好！欢迎来到阿伟的代码世界。
 </div>
 
 # 🔣 使用语言：
