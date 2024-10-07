@@ -35,7 +35,7 @@
 
 # 📝 个人资料统计：
 
-<p><img align="left" img src="https://github-readme-stats.vercel.app/api?username=ahhhhwei&show_icons=true&line_height=45&theme=dracula&include_all_commits=true"  /></p>
+<p><img align="center" img src="https://github-readme-stats.vercel.app/api?username=ahhhhwei&show_icons=true&line_height=45&theme=dracula&include_all_commits=true"  /></p>
 
 ![bottom.png](./pic/readme-bottom.png)
 
