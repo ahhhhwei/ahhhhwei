@@ -17,23 +17,11 @@
 
 - 💬  微信：_520wjw
 
-- 📫  CSDN：https://blog.csdn.net/m0_63039982?spm=1001.2101.3001.5343
-
 - 🎇  Blog: https://ahhhhwei.github.io/ 
 
 - 💞️  研究兴趣：区块链
 
-# 👀 访客人数：
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahhhhwei/ahhhhwei/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahhhhwei/ahhhhwei/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahhhhwei/ahhhhwei/output/github-contribution-grid-snake.svg">
-</picture>
-
-<p style="text-align: center; color: green;">
-    👋 Hello! Welcome to Ahwei's Code World. 我的第<img src="https://profile-counter.glitch.me/ahhhhwei/count.svg" alt="ahhhhwei :: Visitor's Count" />位访客🐾，你好！欢迎来到阿伟的代码世界。💻
-</p>
 
 # 🔣 使用语言：
 
