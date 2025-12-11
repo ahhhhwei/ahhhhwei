@@ -10,7 +10,7 @@
     <img
       src="https://leetcard.jacoblin.cool/ahhhhwei?ext=heatmap&site=cn"
       alt="LeetCode Stats"
-      width="350"
+      width="350" 
     />
   </a>
 </p>
