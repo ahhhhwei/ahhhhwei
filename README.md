@@ -5,7 +5,7 @@
 
 # 🤔 关于我：
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ahhhhwei?ext=heatmap&site=cn)](https://leetcode.cn/u/ahhhhwei)
 
 - 👋  我是阿伟
 
@@ -44,4 +44,4 @@
 
 
 
- 
+
