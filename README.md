@@ -5,33 +5,32 @@
 
 # 🤔 关于我：
 
-<p align="right">
-  <a href="https://leetcode.cn/u/ahhhhwei">
-    <img
-      src="https://leetcard.jacoblin.cool/ahhhhwei?ext=heatmap&site=cn"
-      alt="LeetCode Stats"
-      width="350" 
-    />
-  </a>
-</p>
-
-- 👋  我是阿伟
-
-- 🏫  本科：浙江工业大学 数据科学与大数据技术
-
-- 💻  研究生：合肥工业大学 计算机科学与技术
-
-- ✉️  邮件：202103151422@zjut.edu.cn
-
-- 💬  微信：_520wjw
-
-- 🎇  Blog: https://ahhhhwei.github.io/ 
-
-- 💞️  研究兴趣：区块链
-
-
-
-# 🔣 使用语言：
+<table>
+  <tr>
+    <!-- 左侧文字 -->
+    <td valign="top">
+      <h3>👋 我是阿伟</h3>
+      <ul>
+        <li>🏫 本科：浙江工业大学 数据科学与大数据技术</li>
+        <li>💻 研究生：合肥工业大学 计算机科学与技术</li>
+        <li>✉️ 邮件：202103151422@zjut.edu.cn</li>
+        <li>💬 微信：_520wjw</li>
+        <li>🎇 Blog: <a href="https://ahhhhwei.github.io/">https://ahhhhwei.github.io/</a></li>
+        <li>💞️ 研究兴趣：区块链</li>
+      </ul>
+    </td>
+    <!-- 右侧图片 -->
+    <td valign="top" align="center">
+      <a href="https://leetcode.cn/u/ahhhhwei">
+        <img
+          src="https://leetcard.jacoblin.cool/ahhhhwei?ext=heatmap&site=cn"
+          alt="LeetCode Stats"
+          width="400"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
