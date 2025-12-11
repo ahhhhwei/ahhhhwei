@@ -5,7 +5,13 @@
 
 # 🤔 关于我：
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/ahhhhwei?ext=heatmap&site=cn)](https://leetcode.cn/u/ahhhhwei)
+<p align="right">
+  <a href="https://leetcode.cn/u/ahhhhwei">
+    <img src="https://leetcard.jacoblin.cool/ahhhhwei?ext=heatmap&site=cn" alt="LeetCode Stats" />
+  </a>
+</p>
+
+
 
 - 👋  我是阿伟
 
