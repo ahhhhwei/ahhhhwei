@@ -32,12 +32,6 @@
   </tr>
 </table>
 
-
-
-# 📝 个人资料统计：
-
-
-
 ![bottom.png](./pic/readme-bottom.png)
 
 
