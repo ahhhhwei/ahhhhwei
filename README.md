@@ -7,11 +7,13 @@
 
 <p align="right">
   <a href="https://leetcode.cn/u/ahhhhwei">
-    <img src="https://leetcard.jacoblin.cool/ahhhhwei?ext=heatmap&site=cn" alt="LeetCode Stats" />
+    <img
+      src="https://leetcard.jacoblin.cool/ahhhhwei?ext=heatmap&site=cn"
+      alt="LeetCode Stats"
+      width="450"
+    />
   </a>
 </p>
-
-
 
 - 👋  我是阿伟
 
@@ -31,11 +33,11 @@
 
 # 🔣 使用语言：
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahhhhwei&langs_count=10&theme=tokyonight&layout=compact" alt="ahhhhwei :: Top Langs" /></p>
+
 
 # 📝 个人资料统计：
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ahhhhwei&show_icons=true&line_height=45&theme=dracula&include_all_commits=true"  /></p>
+
 
 ![bottom.png](./pic/readme-bottom.png)
 
