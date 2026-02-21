@@ -16,7 +16,7 @@
         <li>✉️ 邮件：202103151422@zjut.edu.cn</li>
         <li>💬 微信：_520wjw</li>
         <li>🎇 Blog: <a href="https://ahhhhwei.github.io/">https://ahhhhwei.github.io/</a></li>
-        <li>💞️ 研究兴趣：区块链</li>
+        <li>💞️ 研究兴趣：区块链、边缘计算的优化问题</li>
       </ul>
     </td>
     <!-- 右侧图片 -->
