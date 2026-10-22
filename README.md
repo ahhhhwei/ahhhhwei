@@ -13,10 +13,10 @@
       <ul>
         <li>🏫 本科：浙江工业大学 数据科学与大数据技术</li>
         <li>💻 研究生：合肥工业大学 计算机科学与技术</li>
-        <li>✉️ 邮件：202103151422@zjut.edu.cn</li>
-        <li>💬 微信：_520wjw</li>
+        <li>✉️ 邮件：ahwei@mail.hfut.edu.cn</li>
+        <li>💬 微信：_ycx_zdqx</li>
         <li>🎇 Blog: <a href="https://ahhhhwei.github.io/">https://ahhhhwei.github.io/</a></li>
-        <li>💞️ 研究兴趣：区块链、边缘计算的优化问题</li>
+        <li>💞️ 研究兴趣：区块链、边缘计算、大模型推理优化</li>
       </ul>
     </td>
     <!-- 右侧图片 -->
